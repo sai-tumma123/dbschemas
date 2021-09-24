@@ -1,0 +1,1 @@
+insert into emp(empid,empname,address) values(103,'Jaya', 'Texas');
