@@ -1,1 +1,1 @@
-create table accounts (account_id int,customer_id int,account_type_id int,account_number int,account_balance varchar(100));
+create table branch (branch_id varchar(100),customer_id int,branch_address varchar(250));
