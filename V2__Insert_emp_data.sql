@@ -1,1 +1,0 @@
-insert into emp(empid,empname) values(101,'SAI');

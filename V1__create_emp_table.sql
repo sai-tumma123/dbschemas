@@ -1,1 +1,0 @@
-CREATE TABLE EMP (EMPID int, EMPNAME varchar(100));
